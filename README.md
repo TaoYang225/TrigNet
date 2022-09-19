@@ -3,7 +3,9 @@
 https://aclanthology.org/2021.acl-long.326.pdf
 
 -----------------------------------------------------
-As the reason of ethical review, any research or application based on our study is only allowed for research purposes, and any attempt to use the code to infer sensitive user characteristics from publicly accessible data is strictly prohibited. To get the code, researchers need to sign an ethicalstatement and explain the purpose clearly. Please contact me (yangt225[at]mail2.sysu.edu.cn) to get the code!
+As the reason of ethical review, any research or application based on our study is only allowed for research purposes, and any attempt to use the code to infer sensitive user characteristics from publicly accessible data is strictly prohibited. To get the code, researchers need to sign an ethicalstatement and explain the purpose clearly.
+
+Please contact me (yangt225[at]mail2.sysu.edu.cn) to get the code!
 
 -----------------------------------------------------
 
